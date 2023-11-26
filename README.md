@@ -1,9 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hello there 👋, I'm Aayush Sarikhada</h1>
 <h3 align="center">A Mobile Dev based in India</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU](https://img.freepik.com/free-vector/hand-drawn-rpa-illustration_23-2149243331.jpg?size=626&ext=jpg)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c6/4f/61/c64f61144e379948c2345137100e9c0d.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi48&label=Profile%20views&color=0e75b6&style=flat" alt="AayushSarikhada" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush-Sarikhada&label=Profile%20views&color=0e75b6&style=flat" alt="AayushSarikhada" /> </p>
 
 - 🔭 I’m currently working on **Gym App**
 
